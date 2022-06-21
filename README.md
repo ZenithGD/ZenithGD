@@ -73,3 +73,4 @@ Hi and welcome to my little coding corner! I'm a computer engineering student ba
 
 ## 💻 Open Source Work Stats
 ![ZenithGD's Github stats](https://github-readme-stats.vercel.app/api?username=ZenithGD&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenithGD&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
