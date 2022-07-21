@@ -69,6 +69,7 @@ Hi and welcome to my little coding corner! I'm a computer engineering student ba
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Gin](https://img.shields.io/badge/gin-%23FFFFFF.svg?style=for-the-badge&logo=gin&logoColor=blue)
+![Flutter](https://img.shields.io/badge/flutter-%23FFFFFF.svg?style=for-the-badge&logo=flutter&logoColor=blue)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## 💻 Open Source Work Stats
