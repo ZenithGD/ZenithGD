@@ -53,6 +53,7 @@ Hi and welcome to my little coding corner! I'm a computer engineering student ba
 
 ### 📚 Frameworks, Platforms and Libraries
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-%2300ADD8.svg?style=for-the-badge&logo=prisma&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -67,6 +68,8 @@ Hi and welcome to my little coding corner! I'm a computer engineering student ba
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
 
 ### 🌱 Currently learning
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
@@ -74,6 +77,7 @@ Hi and welcome to my little coding corner! I'm a computer engineering student ba
 ![Gin](https://img.shields.io/badge/gin-%23FFFFFF.svg?style=for-the-badge&logo=gin&logoColor=blue)
 ![Flutter](https://img.shields.io/badge/flutter-%23FFFFFF.svg?style=for-the-badge&logo=flutter&logoColor=blue)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## 💻 Open Source Work Stats
 ![ZenithGD's Github stats](https://github-readme-stats.vercel.app/api?username=ZenithGD&show_icons=true)
