@@ -77,7 +77,7 @@ Hi and welcome to my little coding corner! I'm a computer engineering student ba
 ![Gin](https://img.shields.io/badge/gin-%23FFFFFF.svg?style=for-the-badge&logo=gin&logoColor=blue)
 ![Flutter](https://img.shields.io/badge/flutter-%23FFFFFF.svg?style=for-the-badge&logo=flutter&logoColor=blue)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Kotlin](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ## 💻 Open Source Work Stats
 ![ZenithGD's Github stats](https://github-readme-stats.vercel.app/api?username=ZenithGD&show_icons=true)
